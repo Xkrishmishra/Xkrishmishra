@@ -1,4 +1,4 @@
-![logo](https://github.com/Xkrishmishra/Xkrishmishra/blob/main/Github%20Banner.png)
+
 <h1 align="center">Hi 🇮🇳, I'm 𝐊ʀɪsꫝ Mishra</h1>
 <h3 align="center"> 𝐂ᴏᴅɪɴɢ ɪs ᴍʏ ʜᴏʙʙʏ ɴᴏᴛ ᴍʏ ᴡᴏʀᴋ </h3>
 
